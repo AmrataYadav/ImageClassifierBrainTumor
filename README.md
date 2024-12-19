@@ -5,6 +5,9 @@ This project demonstrates my understanding of Convolutional Neural Networks (CNN
 ## Key Highlights
 
 - **Custom CNN Architecture**: Implemented and trained from scratch.
-- **Performance**: Achieved Precision: 0.992, Recall: 1.000, Accuracy: 0.995.
+- **Performance**: Achieved
+- Precision: 0.992,
+- Recall: 1.000,
+- Accuracy: 0.995.
 - **Technology**: Built using TensorFlow 2.18.
 
